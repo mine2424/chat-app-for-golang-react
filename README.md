@@ -2,7 +2,7 @@
 
 this is chat app that made for golang and react (Next.js)
 
-#set up
+# set up
 
 1. move /frontend file and run "npm start"
 
